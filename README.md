@@ -1,7 +1,7 @@
 # FOOD-CATCHER-GAME
 #  Caterpillar Game (Python - Tkinter)
 
-Recreating the nostalgic **Snake Game** from classic Nokia phones — with a modern twist using Python's `turtle` and `tkinter` libraries, and enhanced with **voice commentary** using `pyttsx3`.
+Recreating the nostalgic **Snake Game** from classic Nokia phones with a twist using Python's `turtle` and `tkinter` libraries, and enhanced with **voice commentary** using `pyttsx3`.
 
 
 >  Note: This game must be run **locally** on your system.
